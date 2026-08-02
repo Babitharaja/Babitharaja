@@ -1,0 +1,19 @@
+Required Arduino Libraries
+
+1. DHT sensor library by Adafruit
+2. Adafruit Unified Sensor
+3. LiquidCrystal I2C
+4. Wire (Built-in ESP32/Arduino Library)
+
+Installation Steps
+
+1. Open Arduino IDE.
+2. Click Sketch → Include Library → Manage Libraries.
+3. Search and install:
+
+   • DHT sensor library by Adafruit
+   • Adafruit Unified Sensor
+   • LiquidCrystal I2C
+
+Note:
+The Wire library is built into the Arduino IDE and does not need to be installed separately.
